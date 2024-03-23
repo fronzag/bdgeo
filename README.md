@@ -1,2 +1,4 @@
 # bdgeo
-Geo Database 
+Geo Database
+Code snippets to structure and use your geospatial data on the cloud. 
+
